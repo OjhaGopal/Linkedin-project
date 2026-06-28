@@ -1,20 +1,21 @@
-# LinkedIn Project
+# bun-react-template
 
-A project repository for the LinkedIn application/clone or integration.
-
-## Getting Started
-
-To get started with this repository locally, clone the project and run the setup.
+To install dependencies:
 
 ```bash
-git clone https://github.com/OjhaGopal/Linkedin-project.git
-cd Linkedin-project
+bun install
 ```
 
-## Features
+To start a development server:
 
-- Custom implementation details will be added as the project progresses.
+```bash
+bun dev
+```
 
-## Tech Stack
+To run for production:
 
-- Details of the frontend/backend stack will go here.
+```bash
+bun start
+```
+
+This project was created using `bun init` in bun v1.3.13. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
