@@ -7,6 +7,9 @@ dist/
 build/
 .next/
 out/
+*.tsbuildinfo
+coverage/
+
 
 # IDEs and editors
 .idea/
@@ -21,9 +24,13 @@ out/
 .DS_Store
 .DS_Store?
 ._*
+.Spotlight-V100
+.Trashes
+.fseventsd
 Thumbtack.db
 ehthumbs.db
 desktop.ini
+
 
 # Environment variables
 .env
